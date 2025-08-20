@@ -1,6 +1,6 @@
 # GitHub Repo MCP
-[![Trust Score](https://archestra.ai/mcp-catalog/api/badge/quality/Ryan0204/github-repo-mcp)](https://archestra.ai/mcp-catalog/ryan0204__github-repo-mcp)
 
+[![Trust Score](https://archestra.ai/mcp-catalog/api/badge/quality/Ryan0204/github-repo-mcp)](https://archestra.ai/mcp-catalog/ryan0204__github-repo-mcp)
 [![smithery badge](https://smithery.ai/badge/@Ryan0204/github-repo-mcp)](https://smithery.ai/server/@Ryan0204/github-repo-mcp)
 
 <p class="center-text">
